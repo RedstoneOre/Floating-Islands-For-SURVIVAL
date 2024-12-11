@@ -1,0 +1,20 @@
+{
+  "pack": {
+    "description": [
+      {
+        "color": "yellow",
+        "font": "minecraft:uniform",
+        "text": "Floating Islands!("
+      },
+      {
+        "bold": true,
+        "color": "red",
+        "italic": true,
+        "text": "ADD WHEN CREATING WORLD & CHOOSE THE PRESET!"
+      },
+      ")"
+    ],
+    "pack_format": 48,
+    "supported_formats": [48, 57]
+  }
+}
